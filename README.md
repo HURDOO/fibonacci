@@ -44,7 +44,7 @@ n을 입력했을 때, 이 수열의 n번째 항이 출력되도록 하시오.
 ...아, 수열의 합이 아니라 n번째 항을 구하는 것이었구나. 이 멍청이.
 
 ## 그래서 이 레포는...
-이 레포지토리는 허두가 현타올때마다 와서 피보나치 수열 짜는 용도로 사용됩니다.
+이 레포지토리는 현타올때마다 와서 피보나치 수열 코드 짜고 초심 되찾는 용도로 사용됩니다.
 
 0. 면접에서 짰던 멍청이 코드 [0_stupid_wrong_fibonacci](0_stupid_wrong_fibonacci/0_stupid_wrong_fibonacci.c)
 1. 면접 끝나고 5분만에 짠 정답 코드 [1_after_five_minutes](1_after_five_minutes/1_after_five_minutes.c)
