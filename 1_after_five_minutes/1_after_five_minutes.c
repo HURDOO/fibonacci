@@ -11,6 +11,6 @@ int main()
         a=b;
         b=tmp;
     }
-    printf("%d", b);
+    printf("%lld", b);
     return 0;
 }
