@@ -48,6 +48,6 @@ n을 입력했을 때, 이 수열의 n번째 항이 출력되도록 하시오.
 
 0. 면접에서 짰던 멍청이 코드 [0_stupid_wrong_fibonacci](0_stupid_wrong_fibonacci/0_stupid_wrong_fibonacci.c)
 1. 면접 끝나고 5분만에 짠 정답 코드 [1_after_five_minutes](1_after_five_minutes/1_after_five_minutes.c)
-
+2. 예습의 단점을 진심으로 익힌 정보 시간에 짠 코드 [2_boring_info](2_boring_info.py)
 
 ...그래서 동아리는 어떻게 되었냐고요? 다행히 붙었어요! 자소서를 잘썼나봐요 😊 뽑아주신 선배님들 감사합니당 :)
